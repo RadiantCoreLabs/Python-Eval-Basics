@@ -12,7 +12,7 @@ A collection of Python scripts and examples covering **fundamental evaluation te
 ## 🚀 Quick Start  
 1. Clone the repo:  
    ```bash  
-   git clone https://github.com/your-username/Python-Eval-Basics.git  
+   git clone https://github.com/RadiantCoreLabs/Python-Eval-Basics.git  
 Run any script:
 
 bash
